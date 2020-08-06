@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # react-test
 react test
 =======
