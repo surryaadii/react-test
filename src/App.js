@@ -13,7 +13,7 @@ function App() {
         <Header />
         <Switch>
           <Route exact path="/" component={ Home }/> 
-          <Route render={ () => <h1>Page Not Founda</h1> } />
+          <Route render={ () => <h1>404 Page Not Found</h1> } />
         </Switch>
         <Footer />
       </div>

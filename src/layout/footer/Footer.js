@@ -3,7 +3,7 @@ import React from 'react'
 function Footer() {
     return (
         <div>
-            <span>a</span>
+            <span>© { new Date().getFullYear() } Shopee.inc</span>
         </div>
     )
 }

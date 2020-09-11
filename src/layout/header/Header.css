@@ -1,3 +1,33 @@
-.a {
-    color: red;
+.main-header {
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.main-header-container {
+    min-width: 768px;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.header-logo {
+    font-size: 20px;
+    color: #441519;
+}
+
+.header-logo a {
+    text-decoration: none;
+}
+
+.header-logo span {
+    color: #643434;
+}
+
+.header-menu-list a {
+    margin-left: 15px;
 }
